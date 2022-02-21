@@ -5,9 +5,9 @@
 - text: About
   url: /about
 - text: Electricity
-  identifier: research
-- text: Electricity
-  parent: research
+  identifier: 'research'
+- text: Transmission Lines
+  parent: 'research'
   url: /pages/electricity/elec.html
 - text: Blog
   url: /blog
