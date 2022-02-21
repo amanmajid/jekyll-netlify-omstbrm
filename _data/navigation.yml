@@ -4,7 +4,7 @@
   url: /
 - text: About
   url: /about
-- text: Water
-  url: /electricity/contact
+- text: Electricity
+  url: /electricity/index
 - text: Blog
   url: /blog
