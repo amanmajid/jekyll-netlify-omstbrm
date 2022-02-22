@@ -3,7 +3,7 @@
 - text: Home
   url: /
 - text: Data
-  url: /
+  url: /data
 # - text: Transmission Lines
 #   parent: 'research'
 #   url: /pages/electricity/elec.html
