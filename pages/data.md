@@ -14,8 +14,22 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
 
 ### Platforms
  
-<p float="left">
-  <img src="../assets/img/uploads/sample_pic.png" width="0.25" />
-  <img src="../assets/img/uploads/sample_pic.png" width="0.25" /> 
-  <img src="../assets/img/uploads/sample_pic.png" width="0.25" />
-</p>
+<div style="font-size:0;text-align:center;">
+
+[<img
+  src="../assets/img/uploads/sample_pic.png"
+  alt="Infrastructure Systems"
+  style="display: inline-block;"
+  width="100" height="100">](themes/1-infrasystems/)
+[<img
+  src="../assets/img/uploads/sample_pic.png"
+  alt="Energy Systems"
+  style="display: inline-block;"
+  width="100" height="100">](themes/2-energy/)
+[<img
+  src="../assets/img/uploads/sample_pic.png"
+  alt="Transport Systems"
+  style="display: inline-block;"
+  width="100" height="100">](themes/3-transport/)
+
+</div>
