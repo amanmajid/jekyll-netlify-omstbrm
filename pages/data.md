@@ -19,6 +19,12 @@ Below is a list of our open-access data platforms related to regional energy and
 
 ### Energy
 
+This is a bulleted list:
+
+*  first item
+*  second item
+*  third item
+
  * Transmission Watch: *visualise electricity transmission infrastructure* [[Launch]]((https://prototype-omstbrm-webpage-osiris.netlify.app))
 
 ### Water
