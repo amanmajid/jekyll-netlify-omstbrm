@@ -15,9 +15,11 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
 ## Platforms
 Below is a list of our open-access data platforms related to regional energy and water systems.
 
+---
+
 ### Energy
 
-* **Transmission Watch**: *visualise electricity transmission infrastructure* [[Launch]]((https://prototype-omstbrm-webpage-osiris.netlify.app))
+ * Transmission Watch: *visualise electricity transmission infrastructure* [[Launch]]((https://prototype-omstbrm-webpage-osiris.netlify.app))
 
 ### Water
 
