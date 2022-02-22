@@ -13,9 +13,8 @@ intro_paragraph: |
 Our suite of data sets focus on the <span style="color:blue">electricity and water sectors</span> of Israel, Palestine and Jordan. These data feed into data platforms that could help regional decision-makers to understand the transboundary dynamics of their system. For example, users can visualise the energy and water sectors are a system scale, track the impacts of socioeconomic and environmental drivers, and examine risks and opportunities associated with transboundary issues.
 
 ### Platforms
- 
-![steam-fish-1](../assets/img/uploads/sample_pic.png){: width="25" }
 
+<a href="../assets/img/uploads/sample_pic.png" width='5' height='5' alt='steam-fish-1'>
 
 <!-- <div style="font-size:0;text-align:center;">
 
