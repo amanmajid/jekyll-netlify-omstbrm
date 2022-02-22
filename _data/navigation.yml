@@ -2,13 +2,12 @@
 
 - text: Home
   url: /
+- text: Data
+  url: /
+# - text: Transmission Lines
+#   parent: 'research'
+#   url: /pages/electricity/elec.html
 - text: About
   url: /about
-- text: Electricity
-  identifier: 'research'
-  url: /
-- text: Transmission Lines
-  parent: 'research'
-  url: /pages/electricity/elec.html
-- text: Blog
-  url: /blog
+# - text: Blog
+#   url: /blog
