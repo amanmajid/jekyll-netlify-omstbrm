@@ -14,7 +14,7 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
 
 ### Platforms
 
-<a href="../assets/img/uploads/sample_pic.png" width='50' height='50' alt='steam-fish-1'>
+<a href="../assets/img/uploads/sample_pic.png" width='250' height='250' alt='steam-fish-1'>
 
 <!-- <div style="font-size:0;text-align:center;">
 
