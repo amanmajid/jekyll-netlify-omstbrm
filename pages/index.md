@@ -1,12 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: OMSTBRM
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  The Oxford Martin Programme on Transboundary Resources Management (OMSTRBM) is designed to promote practical cross-border co-operation on natural resources in the Middle East and North Africa. We analyse the interconnections between water, energy and climate in these regions and produce scenarios of future needs, trajectories for resource governance and infrastructure development.
+  
 ---
