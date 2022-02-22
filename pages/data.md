@@ -15,7 +15,7 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
 ### Platforms
  
 <p float="left">
-  <img src="../assets/img/uploads/sample_pic.png" width="25" />
-  <img src="../assets/img/uploads/sample_pic.png" width="25" /> 
-  <img src="../assets/img/uploads/sample_pic.png" width="25" />
+  <img src="../assets/img/uploads/sample_pic.png" width="0.25" />
+  <img src="../assets/img/uploads/sample_pic.png" width="0.25" /> 
+  <img src="../assets/img/uploads/sample_pic.png" width="0.25" />
 </p>
