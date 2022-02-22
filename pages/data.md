@@ -14,7 +14,10 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
 
 ### Platforms
  
-<div style="font-size:0;text-align:center;">
+<img src="../assets/img/uploads/sample_pic.png" width="0.0002">
+
+
+<!-- <div style="font-size:0;text-align:center;">
 
 [<img
   src="../assets/img/uploads/sample_pic.png"
@@ -32,4 +35,4 @@ Our suite of data sets focus on the <span style="color:blue">electricity and wat
   style="display: inline-block;"
   width="100" height="100">](themes/3-transport/)
 
-</div>
+</div> -->
